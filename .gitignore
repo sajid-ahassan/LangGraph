@@ -4,3 +4,9 @@ __pycache__/
 .vscode/ 
 *.pyc 
 .DS_Store 
+newenv/ 
+.env 
+__pycache__/ 
+.vscode/ 
+*.pyc 
+.DS_Store 
