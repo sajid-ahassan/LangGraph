@@ -1,0 +1,20 @@
+{
+  "created_for": "LangGraph revision",
+  "style": "folder-based recall material with small examples and comments",
+  "main_topics": [
+    "core concepts",
+    "state and reducers",
+    "nodes and edges",
+    "conditional routing",
+    "loops and agents",
+    "memory/checkpointing",
+    "interrupts/HITL",
+    "tools",
+    "RAG",
+    "streaming",
+    "subgraphs",
+    "functional API",
+    "debugging",
+    "project structure"
+  ]
+}
